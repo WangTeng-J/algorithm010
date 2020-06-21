@@ -20,17 +20,39 @@
 
 
 package Week02.leetcode.editor.cn;
+
+import com.sun.tools.javac.util.StringUtils;
+
 //Java：有效的字母异位词
 public class P242ValidAnagram{
     public static void main(String[] args) {
-        Solution solution = new P242ValidAnagram().new Solution();
+//        Solution solution = new P242ValidAnagram().new Solution();
         // TO TEST
+        int[] a= new int[2];
+        a[1]++;
+        for(int i:a){
+            System.out.println(i);
+        }
+
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isAnagram(String s, String t) {
+        if( s.length() != t.length()){
+            return false;
+        }
 
+        int[] a = new int[26];
 
+        for(int i = 0 ;i<s.length();i++){
+            a[s.charAt(i)-'a'] ++;
+            a[t.charAt(i)-'a'] --;
+        }
+        for(int v: a){
+            if(v != 0){
+                return false;
+            }
+        }
 
         return true;
     }

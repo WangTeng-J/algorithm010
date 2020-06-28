@@ -21,7 +21,6 @@
 
 package Week02.leetcode.editor.cn;
 
-import com.sun.tools.javac.util.StringUtils;
 
 //Java：有效的字母异位词
 public class P242ValidAnagram{
@@ -41,6 +40,7 @@ class Solution {
         if( s.length() != t.length()){
             return false;
         }
+
 
         int[] a = new int[26];
 

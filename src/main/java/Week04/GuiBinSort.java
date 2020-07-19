@@ -1,5 +1,6 @@
 package Week04;
 
+import java.sql.SQLOutput;
 import java.util.Arrays;
 
 /**
@@ -11,7 +12,29 @@ public class GuiBinSort {
 
 
     public static void main(String[] args) {
-        System.out.println(0x1<<5);
+//        System.out.println(0x1<<5);
+        System.out.println(getInt());
+    }
+
+
+
+
+
+    private  static int getInt(){
+        int a = 1;
+
+        try{
+            a = 2;
+            System.out.println(a);
+            return a;
+        }catch (Exception e){
+            a=3;
+            System.out.println(a);
+        }finally {
+            a = 4;
+            System.out.println(a);
+        }
+        return a;
 
     }
 

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0026502-10c0-4e75-b10c-eb4a7be39afc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week04/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week04/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week06/P64MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Week04/P122BestTimeToBuyAndSellStockIi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Week04/P45JumpGameIi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Week06/MinSumNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week04/GuiBinSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week04/GuiBinSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Week04/GuiBinSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Week04/GuiBinSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Week04/StringToDouble.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,12 +34,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Week06/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="54">
-                <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <first_editor relative-caret-position="92">
+                <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,11 +60,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="286">
+              <caret line="21" column="21" selection-start-line="19" selection-start-column="71" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +110,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Week06/leetcode/editor/cn/P64MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/Week06/P64MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" />
         <option value="$PROJECT_DIR$/src/main/java/Week06/leetcode/editor/cn/P403FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" />
       </list>
     </option>
   </component>
@@ -397,18 +389,19 @@
       <workItem from="1594191808812" duration="6100000" />
       <workItem from="1594263826239" duration="1273000" />
       <workItem from="1594536426166" duration="7828000" />
-      <workItem from="1595073571532" duration="2873000" />
+      <workItem from="1595073571532" duration="3197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58541000" />
+    <option name="totallyTimeSpent" value="58865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7918149" visible="true" weight="0.27682403" />
-      <window_info id="Structure" order="1" sideWeight="0.20818505" side_tool="true" visible="true" weight="0.27682403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79116464" visible="true" weight="0.27682403" />
+      <window_info id="Structure" order="1" sideWeight="0.20883535" side_tool="true" visible="true" weight="0.27682403" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -424,7 +417,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2486631" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3342246" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.16176471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -436,7 +429,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
-      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.50199205" side_tool="true" visible="true" weight="0.28969958" />
+      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.50199205" side_tool="true" visible="true" weight="0.17525035" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,16 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Week06/NOTE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="54">
-            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -704,8 +687,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="286">
+          <caret line="21" column="21" selection-start-line="19" selection-start-column="71" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week06/NOTE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="92">
+            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

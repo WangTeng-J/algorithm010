@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0026502-10c0-4e75-b10c-eb4a7be39afc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week07/ReadWriteLockClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week07/WaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Week06/MinSumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Week06/MinSumNumber.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,40 +37,67 @@
     <favorites_list name="algorithm010" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Week06/NOTE.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="92">
-                <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P45JumpGameIi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Week07/ReadWriteLockClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="-117">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Week07/WaitNotify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="21" column="21" selection-start-line="19" selection-start-column="71" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="296">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#393#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P200NumberOfIslands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P208ImplementTriePrefixTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/util/concurrent/ArrayBlockingQueue.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="129" column="11" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+              <folding>
+                <element signature="e#3293#3294#0" expanded="true" />
+                <element signature="e#3330#3331#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,6 +144,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Week06/leetcode/editor/cn/P403FrogJump.java" />
         <option value="$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java" />
         <option value="$PROJECT_DIR$/src/main/java/Week06/NOTE.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Week06/leetcode/editor/cn/P45JumpGameIi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/P45JumpGameIi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/ReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/ReadWriteLockClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/P208ImplementTriePrefixTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Week07/P200NumberOfIslands.java" />
       </list>
     </option>
   </component>
@@ -130,7 +168,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="840" />
@@ -141,9 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,12 +286,31 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Week04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Week06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Week07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -295,20 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinSumNumber">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week04.BinarySearch" />
-      <module name="algorithm010" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WaitNotify">
     <configuration name="GuiBinSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week04.GuiBinSort" />
       <module name="algorithm010" />
@@ -348,12 +389,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoListSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week04.TwoListSum" />
+    <configuration name="ReadWriteLockClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week07.ReadWriteLockClass" />
       <module name="algorithm010" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week04.*" />
+          <option name="PATTERN" value="Week07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week07.WaitNotify" />
+      <module name="algorithm010" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,11 +417,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.ReadWriteLockClass" />
         <item itemvalue="Application.MinSumNumber" />
         <item itemvalue="Application.GuiBinSort" />
         <item itemvalue="Application.JumpGame2" />
-        <item itemvalue="Application.TwoListSum" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -389,19 +443,20 @@
       <workItem from="1594191808812" duration="6100000" />
       <workItem from="1594263826239" duration="1273000" />
       <workItem from="1594536426166" duration="7828000" />
-      <workItem from="1595073571532" duration="3197000" />
+      <workItem from="1595073571532" duration="12160000" />
+      <workItem from="1595383295297" duration="8663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58865000" />
+    <option name="totallyTimeSpent" value="76491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="840" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79116464" visible="true" weight="0.27682403" />
-      <window_info id="Structure" order="1" sideWeight="0.20883535" side_tool="true" visible="true" weight="0.27682403" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7907869" weight="0.26824033" />
+      <window_info id="Structure" order="1" sideWeight="0.20921305" side_tool="true" weight="0.26824033" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -409,7 +464,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.4104278" side_tool="true" weight="0.25035766" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27139038" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15641712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36229947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,11 +472,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3342246" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26939654" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.16176471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49840257" weight="0.18025751" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49603805" weight="0.32331902" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
@@ -429,8 +484,40 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
-      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.50199205" side_tool="true" visible="true" weight="0.17525035" />
+      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.503962" side_tool="true" weight="0.32331902" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7907869" visible="true" weight="0.26824033" />
+      <window_info id="Structure" order="1" sideWeight="0.20921305" side_tool="true" weight="0.26824033" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.4104278" side_tool="true" weight="0.25035766" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15641712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36229947" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26939654" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.16176471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49603805" visible="true" weight="0.32331902" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49800798" weight="0.26251787" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.503962" side_tool="true" visible="true" weight="0.32331902" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -488,16 +575,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Week02/leetcode/editor/cn/P144BinaryTreePreorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Week03/leetcode/editor/cn/all.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Week02/leetcode/editor/cn/P94BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
@@ -639,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Week04/JumpGame2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="32" column="13" selection-start-line="29" selection-start-column="24" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Week04/GuiBinSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -673,22 +743,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Week06/P403FrogJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="21" selection-start-line="19" selection-start-column="71" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="380">
+          <caret line="23" column="13" selection-start-line="17" selection-start-column="45" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -698,10 +756,117 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Week06/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="92">
-            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <first_editor relative-caret-position="-73">
+            <caret line="14" column="21" selection-start-line="14" selection-end-line="15" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/util/concurrent/Executor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week04/JumpGame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week06/MinSumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/util/concurrent/ThreadPoolExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="415" column="9" selection-start-line="413" selection-start-column="15" selection-end-line="415" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/util/concurrent/Executors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home!/java.base/java/util/concurrent/ArrayBlockingQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="129" column="11" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+          <folding>
+            <element signature="e#3293#3294#0" expanded="true" />
+            <element signature="e#3330#3331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P45JumpGameIi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week07/ReadWriteLockClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week07/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#393#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P208ImplementTriePrefixTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Week07/P200NumberOfIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
